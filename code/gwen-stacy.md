@@ -2,7 +2,7 @@
 
 > "Muy bien, gente. Empecemos por el principio, por última vez. Mi nombre es Gwen Stacy. Fui mordida por una araña radiactiva, y durante los últimos dos años he sido la única y original Spider-Woman. Ustedes saben el resto. Me uní a una banda, salvé a mi papá... no pude salvar a mi mejor amigo, Peter Parker. Así que ahora salvo a todos los demás. Y ya no hago amigos, solo para evitar distracciones. Y un día sucedió esta cosa extraña... y quiero decir, realmente extraña. Me impresionó la semana pasada. ¡Literalmente! Aterricé en Nueva York, pero... no en mi Nueva York. Mi sentido arácnido me dijo que me dirigiera a Visions Academy. No estaba segura de por qué... hasta que te conocí."
 >
-> ―Gwen Stacy presentándose en el Spider verso
+> ― Gwen Stacy presentándose en el Spider verso
 
 ## Los inicios de *Spider-Woman*
 
