@@ -1,3 +1,11 @@
+---
+layout: layout-post.njk
+title: Reseña del libro 1
+description: Descripción de la reseña del libro 1
+tags: ["blog", "spidy"]
+date: "2024-02-22"
+---
+
 # Hobie Brown
  
 > "¡A'ight, mi nombre es Hobie, Hobie Brown! Fui mordido por a-- ¿No te gustaría saber? ¿Sabes a qué me refiero? Y durante los últimos tres años, he sido el único: espera, espera, espera, espera, espera, espera, espera, espera, espera. ¿Crees que voy a mostrarte mi identidad secreta? Sal de ahí. Es decir, cuando no estoy tocando en shows, antagonizando a los fascistas, organizando acciones políticas no permitidas, recortando piezas de arte de rendimiento o riéndome del pub con el mandem. No soy un modelo a seguir. Fui brevemente modelo de pista. ¡Odio la a.m.! ¡Odio al Primer Ministro! ¡Odio las etiquetas! ¡No soy un héroe porque llamarte a ti mismo un héroe te convierte en un autócrata narcisista y auto-mitológico!"

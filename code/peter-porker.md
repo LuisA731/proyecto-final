@@ -1,3 +1,11 @@
+---
+layout: layout-post.njk
+title: Reseña del libro 1
+description: Descripción de la reseña del libro 1
+tags: ["blog", "spidy"]
+date: "2024-02-22"
+---
+
 # Peter Porker
 
 Peter Porker, también conocido como **Spider-Ham** una versión antropomórfica y cómica de Peter Parkery la única persona araña conocida de su mundo caricaturesco.

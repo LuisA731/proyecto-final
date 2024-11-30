@@ -1,3 +1,11 @@
+---
+layout: layout-post.njk
+title: Reseña del libro 1
+description: Descripción de la reseña del libro 1
+tags: ["blog", "spidy"]
+date: "2024-02-22"
+---
+
 # Spider-Noir
 
 **Spider-Man Noir** es una versión alternativa de Spider-Man cuyo nombre real es **Peter Benjamin Parker**, aunque es más conocido por su alias **Spider-Noir**. Esta versión del icónico superhéroe se desarrolla en un universo distinto, ambientado en el año 1933, durante la Gran Depresión. En este contexto, la historia de Peter Parker es mucho más oscura en comparación con las versiones tradicionales de Spider-Man.

@@ -1,12 +1,31 @@
-# Spider-Man and the Spider-Verse
+---
+layout: layout-post.njk
+title: Reseña del libro 1
+description: Descripción de la reseña del libro 1
+tags: ["blog"]
+date: "2024-02-22"
+---
+<div class="container-fluid text-white ">
+  <section class="row">
+    <article class="col-12 text-center p-5" style="background-color: #870404 ;">
+  
+ # Spider-Man and the Spider-Verse
 
 Esta fantástica historia sobre el ya muy reconocido superhéroe *Spider-Man* no es una película convencional, sino una verdadera obra de arte de la animación que nos brinda una experiencia única, como nunca antes habíamos visto en una cinta de este icónico personaje. La franquicia consta de tres películas en total:
 
 - *Spider-Man: Into the Spider-Verse* – Estrenada el **14 de diciembre de 2018**.
 - *Spider-Man: Across the Spider-Verse* –  Estrenada el **2 de junio de 2023**
 - *Spider-Man: Beyond the Spider-Verse* – **Por estrenar**
+  </article> 
+ </section>
+</div>  
+<br><br><br><br><br>
+<div class="container text-white text-center border">
+ <section class="row">
+   <article class="col-12 col-lg-6 ">
 
 ## Spider-Man: Into the Spider-Verse
+ <br>
 
 La primera película nos presenta el inicio de este universo en el que, como todos sabemos, existe solo un *Spider-Man*: el afamado **Peter Parker**, quien ha luchado contra el crimen en la ciudad de *Nueva York* una y otra vez durante muchos años.
 
@@ -21,9 +40,25 @@ Poco después, Miles presencia un suceso que cambiará su vida: uno de los mayor
 
 Miles deberá enfrentar sus propios miedos, aprender a usar sus poderes y descubrir que no está solo en esta misión. Pronto, se unirá a un grupo inesperado de *Spider-People* de otros universos, cada uno con sus propias habilidades y experiencias como héroes. Juntos, deberán colaborar para detener a Kingpin y salvar el multiverso, mientras Miles aprende que cualquiera, incluso alguien como él, puede llevar la máscara y ser un héroe.
 
+   </article>
+  <article class="col-12 col-lg-6 p-5  d-none d-sm-block">
+   <img src="/img/inicio 1.webp" alt="" height="759" width="auto" >
+  </article> 
+  </section>
+</div>  
+
+<br><br><br>
+
+<div class="container text-white text-center my-5 border">
+ <section class="row">
+   <article class="col-12 col-lg-6  d-none d-sm-block"> 
+    <img src="/img/inicio2.webp" alt="" height="929" width="auto" >
+   </article>
+
+   <article class="col-12 col-lg-6 my-3 ">
 
 ## Spider-Man: Across the Spider-Verse
-
+<br>
 
 *Spider-Man: Across the Spider-Verse* continúa la increíble historia de Miles Morales, quien ha adoptado el manto de *Spider-Man* de Brooklyn. Tras los eventos de la primera película, Miles ha aprendido a usar sus poderes, pero se enfrenta a nuevos desafíos mientras intenta equilibrar su vida como estudiante y héroe. La película lleva a Miles a un viaje aún más peligroso y emocionante, atravesando múltiples universos paralelos, donde se encuentra con nuevos aliados y peligrosos enemigos.
 
@@ -37,3 +72,6 @@ En su camino, Miles también tendrá que enfrentarse a un dilema emocional, al v
 
 Con impresionantes escenas de acción, una animación visualmente deslumbrante y una narrativa profunda, *Spider-Man: Across the Spider-Verse* es una aventura épica que lleva a Miles Morales a nuevos horizontes, mostrando que el multiverso está lleno de sorpresas, pero que, al final, el valor y la humanidad son lo que hacen grande a un héroe.
 
+   </article> 
+  </section>
+</div>  

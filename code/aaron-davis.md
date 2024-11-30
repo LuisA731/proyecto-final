@@ -1,9 +1,17 @@
+---
+layout: layout-post.njk
+title: Reseña del libro 1
+description: Descripción de la reseña del libro 1
+tags: ["blog", "villano"]
+date: "2024-02-22"
+---
+
 # Aaron Davis (Prowler)
 
 
 >"Lo siento. Quería que me vieras como un ejemplo. Te fallé, amigo. Te fallé. Eres el mejor de todos nosotros, Miles. Vas en el camino correcto. Solo sigue adelante."
 >
-> Las últimas palabras de Aaron a Miles
+> ― Las últimas palabras de Aaron a Miles
 
 
 ## *Prowler: El Tío Oscuro de Miles Morales*

@@ -1,3 +1,11 @@
+---
+layout: layout-post.njk
+title: Reseña del libro 1
+description: Descripción de la reseña del libro 1
+tags: ["blog", "spidy"]
+date: "2024-02-22"
+---
+
 # Miguel O'Hara
 
 > "Me llamo Miguel O'Hara. Soy el único y original Spider-Man de esta dimensión. Al menos lo era. Pero no soy como los demás. No siempre me gusta lo que tengo que hacer. Pero sé que debo ser yo quien lo haga. He renunciado a demasiado para parar ahora."

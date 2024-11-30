@@ -1,3 +1,11 @@
+---
+layout: layout-post.njk
+title: Reseña del libro 1
+description: Descripción de la reseña del libro 1
+tags: ["blog", "spidy"]
+date: "2024-02-22"
+---
+
 # Jessica Drew
 
 ## La historia de la mentora Jessica Drew: *Spider-Woman*

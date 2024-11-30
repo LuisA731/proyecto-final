@@ -1,3 +1,11 @@
+---
+layout: layout-post.njk
+title: Reseña del libro 1
+description: Descripción de la reseña del libro 1
+tags: ["blog", "spidy"]
+date: "2024-02-22"
+---
+
 # Miles Morales
 
 Miles es un chico con un gusto particular por los grafitis que vive en *Brooklyn*, en la ciudad de *Nueva York*. Su vida cambia de manera inesperada cuando adquiere habilidades sorprendentes después de ser mordido por una araña genéticamente modificada en los suburbios. Cuando **Spider-Man/Peter Parker** es asesinado en su universo, la **Tierra-1610B**, Miles debe asumir el papel de *Spider-Man* para proteger a su ciudad.

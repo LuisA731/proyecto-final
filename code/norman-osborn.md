@@ -1,3 +1,11 @@
+---
+layout: layout-post.njk
+title: Reseña del libro 1
+description: Descripción de la reseña del libro 1
+tags: ["blog", "villano"]
+date: "2024-02-22"
+---
+
 # Norman Virgil Osborn (Duende Verde)
 
 > "¡No depende de mi!, ¿Por qué no renuncias?"

@@ -1,3 +1,11 @@
+---
+layout: layout-post.njk
+title: Reseña del libro 1
+description: Descripción de la reseña del libro 1
+tags: ["blog", "spidy"]
+date: "2024-02-22"
+---
+
 # Peni Parker: La araña cibernética
 
 **Peni Parker**: cibernética edición de Spider-Man Peni Parker resalta entre los personajes del multiverso de *Spider-Man : Into the Spider-Verse* como uno de los más fascinantes e inusuales. En la película, Peni es una niña de ascendencia japonesa y, al igual que otros *Spider-People*, Peni es solo un personaje alternativo a la versión original de *Spider-Man* una y otra vez en diferentes universos. Sin embargo, su propia historia y conjunto de habilidades son únicos. En lugar de poderes de hombre araña con capacidad de combate y telarañismo, Peni controlaba un exoesqueleto robótico llamado **SP//dr**, un súper traje que le otorgaba habilidades ampliadas y competencias de combate. La historia de Peni se describe a continuación.
