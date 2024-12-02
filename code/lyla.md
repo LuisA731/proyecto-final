@@ -1,9 +1,8 @@
 ---
 layout: layout-post.njk
-title: Reseña del libro 1
-description: Descripción de la reseña del libro 1
+title: LYLA
+description: Descripción de la IA LYLA
 tags: ["blog", "spidy"]
-date: "2024-02-22"
 ---
 
 # LYLA

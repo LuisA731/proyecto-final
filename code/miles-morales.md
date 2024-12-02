@@ -1,9 +1,8 @@
 ---
 layout: layout-post.njk
-title: Reseña del libro 1
-description: Descripción de la reseña del libro 1
+title: Miles Morales
+description: Descripción de el spidy Miles Morales
 tags: ["blog", "spidy"]
-date: "2024-02-22"
 ---
 
 # Miles Morales

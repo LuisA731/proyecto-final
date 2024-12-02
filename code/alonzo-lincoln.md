@@ -1,9 +1,8 @@
 ---
 layout: layout-post.njk
-title: Reseña del libro 1
-description: Descripción de la reseña del libro 1
+title: Alonzo Thompson "Lonnie" Lincoln (Tombstone)
+description: Descripción de el villano Alonzo Thompson "Lonnie" Lincoln 
 tags: ["blog", "villano"]
-date: "2024-02-22"
 ---
 
 

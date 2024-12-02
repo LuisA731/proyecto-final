@@ -1,9 +1,8 @@
 ---
 layout: layout-post.njk
-title: Reseña del libro 1
-description: Descripción de la reseña del libro 1
+title: Margo Kess (Spider-Byte)
+description: Descripción de la Spidy Margo Kess
 tags: ["blog", "spidy"]
-date: "2024-02-22"
 ---
 
 # Margo Kess (Spider-Byte)

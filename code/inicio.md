@@ -1,9 +1,7 @@
 ---
 layout: layout-post.njk
-title: Reseña del libro 1
-description: Descripción de la reseña del libro 1
-tags: ["blog"]
-date: "2024-02-22"
+title: Comienzo
+description: Descripción de las peliculas de la wiki
 ---
 <div class="container-fluid text-white ">
   <section class="row">
@@ -20,7 +18,7 @@ Esta fantástica historia sobre el ya muy reconocido superhéroe *Spider-Man* no
  </section>
 </div>  
 <br><br><br><br><br>
-<div class="container text-white text-center border">
+<div class="container text-white text-center border p-4 ">
  <section class="row">
    <article class="col-12 col-lg-6 ">
 
@@ -41,7 +39,7 @@ Poco después, Miles presencia un suceso que cambiará su vida: uno de los mayor
 Miles deberá enfrentar sus propios miedos, aprender a usar sus poderes y descubrir que no está solo en esta misión. Pronto, se unirá a un grupo inesperado de *Spider-People* de otros universos, cada uno con sus propias habilidades y experiencias como héroes. Juntos, deberán colaborar para detener a Kingpin y salvar el multiverso, mientras Miles aprende que cualquiera, incluso alguien como él, puede llevar la máscara y ser un héroe.
 
    </article>
-  <article class="col-12 col-lg-6 p-5  d-none d-sm-block">
+  <article class="col-12 col-lg-6  d-none d-sm-block">
    <img src="/img/inicio 1.webp" alt="" height="759" width="auto" >
   </article> 
   </section>
@@ -49,9 +47,9 @@ Miles deberá enfrentar sus propios miedos, aprender a usar sus poderes y descub
 
 <br><br><br>
 
-<div class="container text-white text-center my-5 border">
+<div class="container text-white text-center my-5 p-4 border">
  <section class="row">
-   <article class="col-12 col-lg-6  d-none d-sm-block"> 
+   <article class="col-12 col-lg-6 d-none d-sm-block"> 
     <img src="/img/inicio2.webp" alt="" height="929" width="auto" >
    </article>
 

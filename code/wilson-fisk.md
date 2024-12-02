@@ -1,9 +1,8 @@
 ---
 layout: layout-post.njk
-title: Reseña del libro 1
-description: Descripción de la reseña del libro 1
+title: Wilson Fisk (Kingpin)
+description: Descripción de el Villano Kingpin
 tags: ["blog", "villano"]
-date: "2024-02-22"
 ---
 
 # Wilson Fisk (Kingpin)
