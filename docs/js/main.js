@@ -1,22 +1,17 @@
 document.addEventListener("DOMContentLoaded", function () {
+  
   const searchBar = document.getElementById("search-bar");
   const searchResults = document.getElementById("search-results");
 
-  
   if (!searchBar || !searchResults) {
     console.error("No se encontraron elementos de búsqueda en el DOM.");
     return;
   }
 
+
   let searchIndex = [];
 
- 
-  const baseURL = window.location.pathname.includes("/proyecto-final/")
-    ? "/repositorio/"
-    : "/";
-
- 
-  fetch(`${baseURL}search-index.json`)
+  fetch("/proyecto-final/search-index.json")
     .then((response) => {
       if (!response.ok) {
         throw new Error("No se pudo cargar el índice de búsqueda");
@@ -25,16 +20,16 @@ document.addEventListener("DOMContentLoaded", function () {
     })
     .then((data) => {
       searchIndex = data;
-      console.log("Índice de búsqueda cargado:", searchIndex);
+      console.log("Índice de búsqueda cargado correctamente:", searchIndex);
     })
     .catch((error) => {
       console.error("Error al cargar el índice de búsqueda:", error);
     });
 
-  
+
   function performSearch(query) {
     searchResults.innerHTML = ""; 
-    if (!query) return; 
+    if (!query) return;  
 
     const results = searchIndex.filter((item) => {
       const titleMatch = item.title.toLowerCase().includes(query.toLowerCase());
@@ -46,7 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
       results.forEach((item) => {
         const li = document.createElement("li");
         li.className = "list-group-item";
-        li.innerHTML = `<a href="${baseURL}${item.url}" class="text-decoration-none">${item.title}</a>`;
+        li.innerHTML = `<a href="${item.url}" class="text-decoration-none">${item.title}</a>`;
         searchResults.appendChild(li);
       });
     } else {
