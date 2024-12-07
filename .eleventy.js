@@ -22,6 +22,13 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPlugin(EleventyHtmlBasePlugin);
 
+  eleventyConfig.on("afterBuild", () => {
+    const fs = require("fs");
+    const searchIndex = eleventyConfig.javascriptFunctions.searchIndex || [];
+    fs.writeFileSync("docs/searchIndex.json", JSON.stringify(searchIndex, null, 2));
+  });
+
+
   return {
     dir: {
       input: "code",
