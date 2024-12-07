@@ -3,17 +3,21 @@ layout: layout-post.njk
 title: Comienzo
 description: Descripción de las peliculas de la wiki
 ---
-<div class="container-fluid text-white ">
+<div class="container-fluid text-white search-item">
   <section class="row">
-    <article class="col-12 text-center p-5" style="background-color: #870404 ;">
+   <div id="search-results"></div>
+    <article class="col-12 text-center p-5" style="background-color: #ad0707 ;">
   
- # Spider-Man and the Spider-Verse
+   <h1 class="search-title">Spider-Man and the Spider-Verse</h1>
 
-Esta fantástica historia sobre el ya muy reconocido superhéroe *Spider-Man* no es una película convencional, sino una verdadera obra de arte de la animación que nos brinda una experiencia única, como nunca antes habíamos visto en una cinta de este icónico personaje. La franquicia consta de tres películas en total:
-
-- *Spider-Man: Into the Spider-Verse* – Estrenada el **14 de diciembre de 2018**.
-- *Spider-Man: Across the Spider-Verse* –  Estrenada el **2 de junio de 2023**
-- *Spider-Man: Beyond the Spider-Verse* – **Por estrenar**
+  <p class="search-content">
+        Esta fantástica historia sobre el ya muy reconocido superhéroe *Spider-Man* no es una película convencional, sino una verdadera obra de arte de la animación que nos brinda una experiencia única, como nunca antes habíamos visto en una cinta de este icónico personaje. La franquicia consta de tres películas en total:
+        <ul>
+          <li>*Spider-Man: Into the Spider-Verse* – Estrenada el **14 de diciembre de 2018**.</li>
+          <li>*Spider-Man: Across the Spider-Verse* –  Estrenada el **2 de junio de 2023**.</li>
+          <li>*Spider-Man: Beyond the Spider-Verse* – **Por estrenar**.</li>
+        </ul>
+      </p>
   </article> 
  </section>
 </div>  
@@ -40,7 +44,7 @@ Miles deberá enfrentar sus propios miedos, aprender a usar sus poderes y descub
 
    </article>
   <article class="col-12 col-lg-6  d-none d-sm-block">
-   <img src="/img/inicio 1.webp" alt="" height="759" width="auto" >
+   <img src="/img/inicio 1.webp" alt="" height="759" width="auto" class="img-fluid">
   </article> 
   </section>
 </div>  
@@ -50,7 +54,7 @@ Miles deberá enfrentar sus propios miedos, aprender a usar sus poderes y descub
 <div class="container text-white text-center my-5 p-4 border">
  <section class="row">
    <article class="col-12 col-lg-6 d-none d-sm-block"> 
-    <img src="/img/inicio2.webp" alt="" height="929" width="auto" >
+    <img src="/img/inicio2.webp" alt="" height="929" width="auto" class="img-fluid">
    </article>
 
    <article class="col-12 col-lg-6 my-3 ">

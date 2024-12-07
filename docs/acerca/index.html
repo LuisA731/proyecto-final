@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Página de Acerca</title>
   <meta name="description" content="Meta descripción de la página de acerca">
-  <link rel="icon" href="/assets/favicon.png">
+  <link rel="icon" href="/img/favicon.png">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
   <link rel="stylesheet" href="/css/styles.css">
 </head>
@@ -36,42 +36,77 @@
           </ul>
         </li>
       </ul>
-      <form class="d-flex" role="search">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
-      </form>
     </div>
   </div>
 </nav>
 
   <main>
     
-<div class="container-fluid text-center text-white  p-4"  style="background-color: #870404 ;">
+<div class="container-fluid text-center text-white  p-4"  style="background-color: #ad0707 ;">
 <h1>Página de Acerca</h1>
 </div>
 
-<div class="container my-5 text-white">
-  <section class="row">
-    <article class="col-12 col-lg-4 text-center">
+<div class="container my-5 text-white" data-searchable>
+  <section class="row g-5">
+   <article class="col-12 col-lg-6  text-center">
+     <h2> Programación I </h2>
+    <p>📚 La materia correspondiente a este proyecto es <strong>Programación I</strong>. En ella, hemos explorado el flujo de trabajo de Git, comandos básicos, y lenguajes como HTML y CSS. Además, aprendimos a trabajar con frameworks como Bootstrap y 11ty, herramientas clave que me permitieron llevar a cabo este proyecto con creatividad y técnica. 🚀</p>
+   </article>
+    <article class="col-12 col-lg-6  text-center">
+      <h2> Proyecto Final </h2>
+     <p> <p>🕸️ Mi proyecto final consta de una <strong>wiki</strong> sobre las películas <em>Spider-Man: Into the Spider-Verse</em> y <em>Spider-Man: Across the Spider-Verse</em>. En ella, encontrarás información clave sobre los personajes: sus historias, habilidades, pasados y lo que los inspira a seguir adelante. 🌟 El propósito de este proyecto es dar a conocer el fascinante universo de los Spider-People y conectar a los fans con estas increíbles historias. 🕷️</p>
+</p> 
+<br><br><br>
+   </article>
+ <article class="col-12 text-center" >
       <h2> Luis Arroyo </h2>
 <p>
 🎓 Soy estudiante de primer semestre de Ingeniería en Ciberseguridad en la Universidad de Amerike, campus CDMX, ubicada en la colonia Del Valle. Me apasiona aprender cosas nuevas y desentrañar cómo funcionan las cosas a mi alrededor. 🌐 Mi curiosidad innata me lleva a hacerme preguntas sobre todo lo que me rodea, siempre buscando respuestas y conexiones. 🚀 ¡Explorar, entender y descubrir son mi motor diario!
 </p>
   </article>
-   <article class="col-12 col-lg-4 text-center">
-     <h2> Programación I </h2>
-    <p>📚 La materia correspondiente a este proyecto es <strong>Programación I</strong>. En ella, hemos explorado el flujo de trabajo de Git, comandos básicos, y lenguajes como HTML y CSS. Además, aprendimos a trabajar con frameworks como Bootstrap y 11ty, herramientas clave que me permitieron llevar a cabo este proyecto con creatividad y técnica. 🚀</p>
-   </article>
-    <article class="col-12 col-lg-4 text-center">
-      <h2> Proyecto Final </h2>
-     <p> <p>🕸️ Mi proyecto final consta de una <strong>wiki</strong> sobre las películas <em>Spider-Man: Into the Spider-Verse</em> y <em>Spider-Man: Across the Spider-Verse</em>. En ella, encontrarás información clave sobre los personajes: sus historias, habilidades, pasados y lo que los inspira a seguir adelante. 🌟 El propósito de este proyecto es dar a conocer el fascinante universo de los Spider-People y conectar a los fans con estas increíbles historias. 🕷️</p>
-</p> 
  </section>
+</div>
+
+<div class="container-fluid text-center p-4"  style="background-color: #000000 ;" >
+<img src="/img/acerca1.jpg" alt="letras Spiderman" class="img-fluid" >
 </div>
 
 
   </main>
+  <footer style="background-color: #0D1B2A; color: #FFFFFF; padding: 20px; text-align: center;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center; max-width: 1200px; margin: 0 auto;">
+    
+
+    <div style="flex: 1; margin: 10px;">
+      <h3 style="color: #FFC107; font-size: 18px;">Navegación</h3>
+      <ul style="list-style: none; padding: 0; line-height: 1.8;">
+        <li><a href="/inicio" style="color: #FFFFFF; text-decoration: none;">Inicio</a></li>
+        <li><a href="/articulos" style="color: #FFFFFF; text-decoration: none;">Personajes</a></li>
+        <li><a href="/acerca" style="color: #FFFFFF; text-decoration: none;">Acerca del Proyecto</a></li>
+      </ul>
+    </div>
+    
+
+    <div style="flex: 1; margin: 10px;">
+      <h3 style="color: #FFC107; font-size: 18px;">Créditos</h3>
+      <p style="margin: 0;">Spider-Wiki es un proyecto hecho por un fan para fans.</p>
+      <p style="margin: 0;">Diseño inspirado en el universo de Spider-Man.</p>
+    </div>
+
+  </div>
   
+ 
+  <hr style="border: 1px solid #FFC107; margin: 20px 0;">
+
+
+  <div>
+    <p style="margin: 0; font-size: 14px;">&copy; 2024 Spider-Wiki.</p>
+  </div>
+</footer>
+
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+   <script src="/js/main.js"></script>
+  
+
 </body>
 </html>

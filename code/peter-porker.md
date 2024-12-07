@@ -6,12 +6,22 @@ tags: ["blog", "spidy"]
 ---
 
 # Peter Porker
+<br>
+<div class="container p-3 border">
 
 Peter Porker, también conocido como **Spider-Ham** una versión antropomórfica y cómica de Peter Parkery la única persona araña conocida de su mundo caricaturesco.
 
 > "Mi nombre es Peter Porker. Fui mordido por un cerdo radiactivo. Soy fotógrafo del Daily Beagle. Cuando no estoy merodeando, estoy trabajando como un perro, tratando de olfatear la última historia."
 >
 > ― *Spider-Ham* presentandose al Multiverso
+</div>
+<br><br>
+
+
+<div class="container">
+ <section class="row">
+   <article class= "col-lg-6">
+
 
 ## El porkinicio
 
@@ -20,18 +30,41 @@ Peter Porker, conocido como *Spider-Ham*, tiene un origen tan peculiar como cóm
 ### Secuestro de Peter Porker  
 Durante uno de sus días como vigilante, Peter fue capturado por el villano *Dr. Crawdaddy*. Sin embargo, gracias a su ingenio y una mordaz crítica al apodo del villano, Spider-Ham logró liberarse y derrotarlo. Poco después de escapar, un portal multiversal apareció de la nada y absorbió a Peter, llevándolo a un giro inesperado en su vida.  
 
+</article>
+<article class="col-lg-6 p-3 d-none d-sm-block">
+ <br>
+   <img src="/img/porker1.webp" alt=""  class="img-fluid"  >
+  </article>            
+  </section>              
+</div>
+<br>
+
 ### La Crisis del Colisionador  
 #### Un nuevo universo 
+<br>
+
 Minutos después de haber derrotado a *Crawdaddy*, Peter fue transportado a otra dimensión a través del portal. Desorientado por el evento, llegó a la casa de una versión alternativa de May Parker, donde se encontró con otros *Spider-People*: Peni Parker y *Spider-Man Noir*.  
 
 #### Conociendo a más Spider-People  
+<br>
+
 Con el tiempo, Peter se reunió con otros héroes arácnidos, como Gwen Stacy, otro Peter Parker proveniente de un universo diferente, y el joven Miles Morales, quien se convertiría en el más reciente miembro del grupo.  
 
 Cuando llegó el momento de destruir el colisionador multiversal, Peter y los demás *Spider-People* se ofrecieron como voluntarios para quedarse atrás y garantizar la misión, permitiendo que los demás regresaran a sus hogares. Sin embargo, cuando Miles propuso encargarse de la tarea, Peter y el resto decidieron probar si realmente estaba listo. En un intento de medir su preparación, recurrieron a bromas y comentarios que, aunque bien intencionados, terminaron aumentando la presión que Miles sentía en ese momento crucial.  
 
 A pesar de su naturaleza cómica y despreocupada, Peter Porker demostró ser un miembro valioso y comprometido del equipo, enfrentando los desafíos del multiverso con una mezcla de humor y heroísmo.
 
+<div class="container">
+ <section class="row">
+ <article class="  col-lg-6 d-none d-sm-block" >
+   <br><br><br><br><br><br><br><br><br><br>
+   <img src="/img/porker2.jpg" alt=""  class="img-fluid" >
+  </article>
+ <article class="col-lg-6 ">
+<br><br>
+
 ## Poderes y Habilidades
+<br>
 
  - **Fisiología de araña**: Habiendo sido mordido por un cerdo genéticamente alteradoPeter se convirtió en un cerdo antropomórfico mientras conservaba sus diversas habilidades mejoradas de araña, como mayor fuerza, velocidad, agilidad, sentido de araña y la capacidad de escalar paredes.
 
@@ -47,20 +80,31 @@ A pesar de su naturaleza cómica y despreocupada, Peter Porker demostró ser un 
 
  - **Araña-Sentido**:Una de las habilidades más icónicas de Spider-Ham es su Araña-Sentido, una especie de radar interno que se activa cuando está en peligro. Este zumbido en su cabeza actúa como un sistema de alerta temprana, brindándole una ventaja táctica al anticipar amenazas antes de que sucedan.
   
-  1. **Conciencia Espacial**: Su Araña-Sentido le proporciona una percepción casi completa de su entorno, permitiéndole reaccionar con reflejos sobrehumanos para esquivar o contrarrestar ataques de forma instintiva.
-  2. **Reconocimiento de Otros Spider-People**: Esta habilidad también le otorga una conexión única con otros héroes arácnidos, ayudándolo a identificarlos incluso sin una interacción previa. Este vínculo refuerza su capacidad de trabajo en equipo y su sentido de pertenencia al Spider-Verse.
+ - **Conciencia Espacial**: Su Araña-Sentido le proporciona una percepción casi completa de su entorno, permitiéndole reaccionar con reflejos sobrehumanos para esquivar o contrarrestar ataques de forma instintiva.
+ - **Reconocimiento de Otros Spider-People**: Esta habilidad también le otorga una conexión única con otros héroes arácnidos, ayudándolo a identificarlos incluso sin una interacción previa. Este vínculo refuerza su capacidad de trabajo en equipo y su sentido de pertenencia al Spider-Verse.
 
-### Habilidades Especiales
+</article>            
+  </section>              
+</div>
+<br>
 
 ### Habilidades y Características Especiales de Spider-Ham
 
+<article class="text-start">
+
 1. **Fuerza Toon**  
+<br>
    A diferencia de la mayoría de los *Spider-People*, Peter Porker posee habilidades únicas derivadas de la naturaleza caricaturesca de su universo. Esto lo hace casi invulnerable, con una agilidad sobresaliente que desafía las leyes de la física. Su fuerza toon le permite realizar hazañas absurdas, como transportar una cantidad aparentemente infinita de objetos slapstick (martillos gigantes, yunques, imanes, entre otros) en sus bolsillos sin limitaciones visibles.
 
 2. **Conciencia Meta**  
+<br>
    Una de sus habilidades más peculiares es su aparente conciencia de que forma parte de una película o una obra ficticia. Esto le permite interactuar de manera única con otros personajes y situaciones, rompiendo la cuarta pared con humor e ingenio.
 
 3. **Hammerspace**  
+  <br>
    Spider-Ham tiene acceso a una dimensión de bolsillo conocida como *Hammerspace*, desde la cual puede sacar herramientas y objetos cómicos en cualquier momento. Estos artículos, como martillos descomunales o yunques de acero, no solo son útiles en combate, sino que también aportan una ventaja inesperada al ser imposibles de predecir para sus oponentes.  
    
    Gracias a esta habilidad, Spider-Ham no solo destaca por su versatilidad, sino que también podría considerarse como una de las personas araña más poderosas del multiverso. Su capacidad para materializar recursos infinitos y su resistencia excepcional lo convierten en un adversario formidable y una fuerza creativa única entre los héroes arácnidos.
+
+</article>
+

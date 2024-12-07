@@ -5,29 +5,68 @@ description: Descripción de el spidy Pavitir Prabhakar
 tags: ["blog", "spidy"]
 ---
 
-# Pavitr Prabhakar
+# Pavitr Prabhakar: El *Spider-Man* de Mumbattan
+<br>
 
-## El *Spider-Man* de Mumbattan
+<div class="container">
+ <section class="row">
+   <article class= "col-lg-6">
 
 ### **Orígenes Heroicos**  
+<br>
+
 Pavitr Prabhakar es un estudiante de la *Academia Visions de Mumbattan* que, tras adquirir habilidades arácnidas, decidió convertirse en el protector de su ciudad como el Hombre Araña. Equilibrando su vida escolar con sus responsabilidades como superhéroe, Pavitr demostró ser una fuerza imparable contra el crimen en su vibrante y caótica Mumbattan.  
 
 ### **Unirse a la Sociedad Araña**  
+<br>
+
 Reconociendo su potencial, Miguel O'Hara reclutó a Pavitr para formar parte de la Sociedad Araña, una organización multiversal dedicada a mantener el equilibrio en el *Spider-Verse*. Durante su tiempo con la Sociedad, Pavitr se destacó por su determinación y habilidades únicas.  
 
 ### **La Lucha Contra Spot**  
+<br>
+
 Meses después, Pavitr luchó junto a Gwen Stacy, su mejor amigo Hobie Brown, y el Spider-Man de Tierra-1610, Miles Morales, contra *Spot*, un villano con habilidades multiversales que amenazaba con desatar el caos en Mumbattan. A pesar de que el equipo no logró detener por completo los planes de Spot, Pavitr protagonizó un acto heroico salvando a su novia. Sin embargo, debido a la inminencia de los eventos, no pudo salvar a su padre, una tarea que Miles realizó en su lugar.  
 
+
+
+</article>
+<article class="col-lg-6 p-3 d-none d-sm-block">
+ <br><br>
+   <img src="/img/pavitir1.jpg" alt=""  class="img-fluid"  >
+  </article>            
+  </section>              
+</div>
+<br>
+
 ### **Cambio de Alianza**  
+<br>
+
 Agradecido por el sacrificio de Miles y movido por su valentía, Pavitr decidió abandonar la Sociedad Araña y unirse al reformado *Spider-Gang*. Junto a este nuevo equipo, Pavitr se comprometió a encontrar a Miles y apoyarlo en su lucha contra Miguel y Spot, demostrando así su lealtad y sentido de justicia.  
 
 Pavitr Prabhakar no solo es un héroe en Mumbattan, sino un ejemplo de amistad, valentía y determinación en el vasto multiverso arácnido.
+
+<br>
+<div class="container p-3 border">
 
 > "¡Mi nombre es Pavitr Prabhakar! Y durante los últimos seis meses-- [...] ¡Ser Spider-Man es TAN fácil! Me despierto, me salto el entrenamiento, porque soy naturalmente aficionado y no quiero ser demasiado grande, ya sabes. No hagas casi NADA con mi INCREÍBLE CABELLO [...] Solo aceite de coco, oración, algo de genética. Luego paso por la escuela. Realmente no tengo que intentarlo, pero lo hago de todos modos. Lucha contra algunos malos, alimenta a algunos perros callejeros, rompe rápido por una taza de chai con mi tía maya-- [...] Luego salgo con mi novia, Gayatri. Ella es una adolescente extremadamente elegante. [...] Y para colmo, vivo en la mejor ciudad posible de Spider-Man, Mumbattan. Recorrido rápido. ¡Aquí es donde está el tráfico! ¡Aquí es donde está el tráfico! ¡Aquí es también donde está el tráfico! ¡Hay tráfico aquí también! ¡Y aquí es donde los británicos robaron todas nuestras cosas! ¡Whoa!"
 >
 > ―  Pavitir presentandose al Multiverso
 
+</div>
+<br><br>
+
+<div class="container">
+ <section class="row">
+ <article class="  col-lg-6 d-none d-sm-block" >
+   <br><br><br><br><br>
+   <img src="/img/pavitir2.webp" alt=""  class="img-fluid" >
+  </article>
+ <article class="col-lg-6 ">
+<br><br>
+
+
 ## Personalidad
+<br>
 
 Pavitr Prabhakar es un joven con una actitud desbordantemente positiva y entusiasta, lo que lo hace destacar entre otros héroes arácnidos. Desde que obtuvo sus poderes hace seis meses, Pavitr ha abrazado su papel como Spider-Man con alegría, considerando su vida como superhéroe una experiencia emocionante y divertida.  
 
@@ -47,7 +86,17 @@ En el ámbito romántico, Pavitr ha desarrollado una relación secreta con su co
 
 A pesar de su habitual optimismo, Pavitr puede adoptar una actitud más seria y reflexiva cuando las personas que ama están en peligro, mostrando la profundidad de su compromiso y la preocupación genuina por su bienestar. Este equilibrio entre su alegría contagiosa y su sentido de responsabilidad lo hace un héroe único y entrañable en el multiverso.
 
+</article>            
+  </section>              
+</div>
+<br>
+
+
 ## Habilidades Especiales
+<br>
+
+<section class="text-start">
 
  - **Intelecto de Nivel Genio**: Pavitr Prabhakar ha demostrado ser un individuo muy inteligente para alguien de su edad, algo que se muestra cuando en la escuela no necesita tratar de obtener buenas calificaciones, pero lo hace de todos modos.
  - **Bilingüismo**: Pavitr habla con fluidez su hindi nativo, así como el inglés.
+</section> 

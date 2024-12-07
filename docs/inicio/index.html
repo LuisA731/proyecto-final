@@ -36,27 +36,27 @@
           </ul>
         </li>
       </ul>
-      <form class="d-flex" role="search">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
-      </form>
     </div>
   </div>
 </nav>
  
   <main>
-    <div class="container text-white text-center my-5"> 
-    <div class="container-fluid text-white ">
+
+    <div class="container text-white text-center my-5 col-12" data-searchable> 
+    <div class="container-fluid text-white search-item">
   <section class="row">
-    <article class="col-12 text-center p-5" style="background-color: #870404 ;">
-<h1>Spider-Man and the Spider-Verse</h1>
-<p>Esta fantástica historia sobre el ya muy reconocido superhéroe <em>Spider-Man</em> no es una película convencional, sino una verdadera obra de arte de la animación que nos brinda una experiencia única, como nunca antes habíamos visto en una cinta de este icónico personaje. La franquicia consta de tres películas en total:</p>
-<ul>
-<li><em>Spider-Man: Into the Spider-Verse</em> – Estrenada el <strong>14 de diciembre de 2018</strong>.</li>
-<li><em>Spider-Man: Across the Spider-Verse</em> –  Estrenada el <strong>2 de junio de 2023</strong></li>
-<li><em>Spider-Man: Beyond the Spider-Verse</em> – <strong>Por estrenar</strong></article> 
-</li>
-</ul>
+   <div id="search-results"></div>
+    <article class="col-12 text-center p-5" style="background-color: #ad0707 ;">
+   <h1 class="search-title">Spider-Man and the Spider-Verse</h1>
+  <p class="search-content">
+        Esta fantástica historia sobre el ya muy reconocido superhéroe *Spider-Man* no es una película convencional, sino una verdadera obra de arte de la animación que nos brinda una experiencia única, como nunca antes habíamos visto en una cinta de este icónico personaje. La franquicia consta de tres películas en total:
+        <ul>
+          <li>*Spider-Man: Into the Spider-Verse* – Estrenada el **14 de diciembre de 2018**.</li>
+          <li>*Spider-Man: Across the Spider-Verse* –  Estrenada el **2 de junio de 2023**.</li>
+          <li>*Spider-Man: Beyond the Spider-Verse* – **Por estrenar**.</li>
+        </ul>
+      </p>
+  </article> 
  </section>
 </div>  
 <br><br><br><br><br>
@@ -73,7 +73,7 @@
 <p>Miles deberá enfrentar sus propios miedos, aprender a usar sus poderes y descubrir que no está solo en esta misión. Pronto, se unirá a un grupo inesperado de <em>Spider-People</em> de otros universos, cada uno con sus propias habilidades y experiencias como héroes. Juntos, deberán colaborar para detener a Kingpin y salvar el multiverso, mientras Miles aprende que cualquiera, incluso alguien como él, puede llevar la máscara y ser un héroe.</p>
    </article>
   <article class="col-12 col-lg-6  d-none d-sm-block">
-   <img src="/img/inicio 1.webp" alt="" height="759" width="auto" >
+   <img src="/img/inicio 1.webp" alt="" height="759" width="auto" class="img-fluid">
   </article> 
   </section>
 </div>  
@@ -81,7 +81,7 @@
 <div class="container text-white text-center my-5 p-4 border">
  <section class="row">
    <article class="col-12 col-lg-6 d-none d-sm-block"> 
-    <img src="/img/inicio2.webp" alt="" height="929" width="auto" >
+    <img src="/img/inicio2.webp" alt="" height="929" width="auto" class="img-fluid">
    </article>
    <article class="col-12 col-lg-6 my-3 ">
 <h2>Spider-Man: Across the Spider-Verse</h2>
@@ -99,7 +99,38 @@
     </div>
   </main>
 
+  <footer style="background-color: #0D1B2A; color: #FFFFFF; padding: 20px; text-align: center;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center; max-width: 1200px; margin: 0 auto;">
+    
+
+    <div style="flex: 1; margin: 10px;">
+      <h3 style="color: #FFC107; font-size: 18px;">Navegación</h3>
+      <ul style="list-style: none; padding: 0; line-height: 1.8;">
+        <li><a href="/inicio" style="color: #FFFFFF; text-decoration: none;">Inicio</a></li>
+        <li><a href="/articulos" style="color: #FFFFFF; text-decoration: none;">Personajes</a></li>
+        <li><a href="/acerca" style="color: #FFFFFF; text-decoration: none;">Acerca del Proyecto</a></li>
+      </ul>
+    </div>
+    
+
+    <div style="flex: 1; margin: 10px;">
+      <h3 style="color: #FFC107; font-size: 18px;">Créditos</h3>
+      <p style="margin: 0;">Spider-Wiki es un proyecto hecho por un fan para fans.</p>
+      <p style="margin: 0;">Diseño inspirado en el universo de Spider-Man.</p>
+    </div>
+
+  </div>
   
+ 
+  <hr style="border: 1px solid #FFC107; margin: 20px 0;">
+
+
+  <div>
+    <p style="margin: 0; font-size: 14px;">&copy; 2024 Spider-Wiki.</p>
+  </div>
+</footer>
+
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" > </script>
+  <script src="/js/main.js"></script>
 </body>
 </html>

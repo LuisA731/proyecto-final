@@ -1,0 +1,14 @@
+---
+eleventyExcludeFromCollections: true
+permalink: /search-index.json
+---
+
+[
+  {% for page in collections.all %}
+  {
+    "title": "{{ page.data.title | escape }}",
+    "url": "{{ page.url | url }}",
+    "content": "{{ page.templateContent | striptags | truncate(200) }}"
+  }{% if not loop.last %},{% endif %}
+  {% endfor %}
+]

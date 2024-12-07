@@ -1,4 +1,20 @@
 
 body { 
-    background-color: #03062b; 
+    background-color: #03011f; 
 }
+
+
+#search-results {
+    max-height: 300px;
+    overflow-y: auto;
+  }
+  
+  #search-results li {
+    background-color: #03011f;
+    cursor: pointer;
+  }
+  
+  #search-results li:hover {
+    background-color:  #ad0707;
+  }
+  

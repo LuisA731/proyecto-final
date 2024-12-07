@@ -6,30 +6,60 @@ tags: ["blog", "spidy"]
 ---
 
 # Peter Benjamin Parker
+<br>
+<div class="container p-3 border">
 
 > **Miles:** "¡Peter! ¿Cuándo sabré que estoy listo?"
 >
 > **Peter B. Parker:** "No lo sabrás. Es un salto de fe. Sólo es eso, Miles: un salto de fe."
 >
 > ―*Las palabras de Peter marcan a Miles*
+</div>
+<br><br>
+
+
 
 Peter, al igual que en las historias que ya conocemos, fue mordido por una araña radioactiva a la edad de 15 años. Eventualmente, dejó escapar al ladrón que, más tarde, asesinaría al Tío Ben, dándole la mítica lección:
+
+<br>
+<div class="container p-3 border">
+
 
 > Un gran poder conlleva una gran responsabilidad 
 >
 > ― Tío ben
+</div>
+<br><br>
+
 
 Así se convirtió en el "único y original Spider-Man," ostentando este título durante 22 años y combatiendo el crimen con historias de éxitos y fracasos por igual. En el camino, conoció y se casó con **Mary Jane Watson**.
 
+<div class="container">
+ <section class="row">
+   <article class= "col-lg-6">
+
 ## La Vida adulta de *Spider-Man*
+<br>
 
 Siendo el *Spider-Man* del grupo con más años cargando esta responsabilidad, la vida como superhéroe y como Peter Parker se volvió cada vez más complicada. El proceso natural de la transición de la adultez a la vejez comenzó a afectarlo, reduciendo de manera significativa su fuerza y resistencia, lo que hacía cada vez más difícil ganar en batalla. Paralelamente, su matrimonio con **Mary Jane Watson** empezó a llenarse de tensiones, al punto de que dejaron de dirigirse la palabra. La situación alcanzó su punto crítico cuando surgió el tema de tener hijos: Mary Jane estaba a favor, pero a Peter le aterraba la posibilidad de fracasar también en ese aspecto de su vida.
 
 Las cosas no mejoraron, y finalmente Peter y Mary Jane se divorciaron. Él le cedió todos sus bienes y se mudó a un pequeño apartamento, donde comenzó a ahogar sus penas, cayendo en una profunda depresión. Su condición física también se deterioró, alejándolo de la esbelta y musculosa figura característica de *Spider-Man*.
 
 ## Un Mundo nuevo
+<br>
 
 Con el paso del tiempo, el Peter cuarentón fue perdiendo la forma física que alguna vez había caracterizado a *Spider-Man*, en gran medida debido a una dieta que casi siempre consistía en pizza, lo cual redujo notablemente sus reflejos y fuerza.
+
+
+
+</article>
+<article class="col-lg-6 p-3 d-none d-sm-block">
+ <br><br><br>
+   <img src="/img/peter-b1.webp" alt=""  class="img-fluid"  >
+  </article>            
+  </section>              
+</div>
+<br>
 
 Una noche, mientras estaba acostado en su pequeña cama y comía pizza, como de costumbre, notó que un portal comenzó a abrirse en el techo de su habitación, succionando todo a su alrededor. En medio de la confusión, Peter empezó a tener visiones de otro *Spider-Man*. Desconcertado, intentó aferrarse al mobiliario usando sus telarañas, pero la fuerza del portal era superior, y sus redes se rompieron. Sin otra opción, lanzó rápidamente una última telaraña para alcanzar su máscara antes de ser absorbido hacia lo desconocido: una corriente de realidad que lo arrojó, finalmente, en la ciudad de Nueva York, aunque no era su propia dimensión.
 
@@ -37,7 +67,17 @@ Tras orientarse y confirmar que estaba, en efecto, en Nueva York, Peter dirigió
 
 Peter notó varias diferencias entre él y la versión de *Spider-Man* de ese universo: el héroe caído que aparecía en la pantalla era un Peter más joven y rubio, mientras que él era mayor y de aspecto caucásico. A pesar del dolor y la tristeza que le provocaba ver que la *Mary Jane* de esta dimensión quedaría viuda, Peter asistió a su propio funeral. En medio del impacto emocional de presenciar esta escena, experimentó un persistente presentimiento de que la misma fuerza que lo había llevado hasta este universo era la causa de la muerte del *Spider-Man* local. 
 
+<div class="container">
+ <section class="row">
+ <article class="  col-lg-6 d-none d-sm-block" >
+   <br><br><br><br><br>
+   <img src="/img/peter-b2.webp" alt=""  class="img-fluid" >
+  </article>
+ <article class="col-lg-6 ">
+<br><br>
+
 ## El Entrenador de *Spider-People*
+<br>
 
 Después de estos eventos, Peter sintió la necesidad de visitar su propia tumba. Allí, descubrió a un chico que llevaba un traje comercial del arácnido. Al intentar hablar con él, el joven liberó accidentalmente una descarga que dejó a Peter inconsciente.
 
@@ -45,5 +85,10 @@ Cuando despertó, estaba atado en un departamento y, para su sorpresa, aquel pec
 
 Su primera misión juntos fue infiltrarse en el laboratorio de Kingpin, llamado *Alchemax*, en busca de respuestas. Allí, lo que debía ser una misión encubierta se complicó cuando se encontraron con la científica **Olivia Octavius**. Mientras intentaban robar la computadora con información crítica de Octavius, la situación se salió de control y tuvieron que escapar apresuradamente, perseguidos por todo el personal de seguridad de Alchemax, que odiaba a *Spider-Man*.
 
-En medio de la huida, ya en el bosque, Peter le entregó a Miles sus lanzatelarañas y le enseñó a columpiarse para moverse rápidamente y evadir a sus perseguidores. Durante este caótico escape, recibieron ayuda inesperada: **Gwendolyn Stacy**, otra *"spider-people"* atrapada en una situación similar a la de Peter, se unió a ellos para facilitar su fuga.
 
+</article>            
+  </section>              
+</div>
+<br>
+
+En medio de la huida, ya en el bosque, Peter le entregó a Miles sus lanzatelarañas y le enseñó a columpiarse para moverse rápidamente y evadir a sus perseguidores. Durante este caótico escape, recibieron ayuda inesperada: **Gwendolyn Stacy**, otra *"spider-people"* atrapada en una situación similar a la de Peter, se unió a ellos para facilitar su fuga.
