@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-  
+
   const searchBar = document.getElementById("search-bar");
   const searchResults = document.getElementById("search-results");
 
@@ -8,8 +8,9 @@ document.addEventListener("DOMContentLoaded", function () {
     return;
   }
 
-
+  
   let searchIndex = [];
+
 
   fetch("/proyecto-final/search-index.json")
     .then((response) => {
@@ -28,9 +29,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
   function performSearch(query) {
-    searchResults.innerHTML = ""; 
+    searchResults.innerHTML = "";  
     if (!query) return;  
 
+    
     const results = searchIndex.filter((item) => {
       const titleMatch = item.title.toLowerCase().includes(query.toLowerCase());
       const contentMatch = item.content.toLowerCase().includes(query.toLowerCase());
