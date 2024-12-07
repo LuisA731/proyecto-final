@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   let searchIndex = [];
 
-  fetch("/proyecto-final/search-index.json")
+  fetch("/search-index.json")
     .then((response) => {
       if (!response.ok) {
         throw new Error("No se pudo cargar el índice de búsqueda");
